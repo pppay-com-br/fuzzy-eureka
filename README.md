@@ -17,7 +17,7 @@ O objetivo deste teste é criar um algoritmo que atenda aos seguintes requisitos
 
 3. **Desempenho:**
 
-   - O endpoint deve ser capaz de suportar **5 mil de requisições** em um intervalo de **1 minuto**.
+   - O endpoint deve ser capaz de suportar **6 mil de requisições** em um intervalo de **1 minuto**.
 
 4. **Linguagens aceitas:**
 
