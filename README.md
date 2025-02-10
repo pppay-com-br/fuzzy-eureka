@@ -43,7 +43,7 @@ O objetivo deste teste é criar um algoritmo que atenda aos seguintes requisitos
 
 3. **Validação de Performance:**
 
-   - Inclua testes para validar que o endpoint atende à exigência de performance (5M de requisições/min).
+   - Inclua testes para validar que o endpoint atende à exigência de performance (6K de requisições/min).
 
 4. **Submissão:**
 
@@ -55,7 +55,7 @@ Serão considerados os seguintes pontos:
 
 1. **Eficiência e Escalabilidade:**
 
-   - A solução atende ao requisito de 5K de requisições por minuto?
+   - A solução atende ao requisito de 6K de requisições por minuto?
 
 2. **Clareza e Organização:**
 
